@@ -1,7 +1,7 @@
 # 03-challenge-assignment
 
 ## Description
-My motivation to complete this project was to practive and better my skills in HTML and CSS as well as practice building a webpage from scratch. I built this project to begin creating my professional portfolio. This project is the beginning of my work portfolio and will be updated and edited as my skills improve. I learned about using classes and ids, building a webpage, link fuctions, as well as pseudoclasses.
+My motivation to complete this project was to further understand JS and how all the pieces go together to create a live site. I built this project to practice using various JS elements such as "prompt" and "confirm". I learned about using fuctions and methods to in JS and practiced logical structure for coding. 
 
 ## Table of Contents
 
